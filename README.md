@@ -7,3 +7,11 @@ Script is almost completely automated (aside from some basic required user input
 
 Script will configure LAMP and WordPress with proper secure permissions/ownership settings
 Only takes approx 10 mins to install completely.
+
+
+$ git clone https://github.com/james-buel/CentOS_LAMP-WP_automated_installer_script.git
+
+$ chmod +x install_lamp_and_wp.sh
+
+$ ./install_lamp_and_wp.sh
+
